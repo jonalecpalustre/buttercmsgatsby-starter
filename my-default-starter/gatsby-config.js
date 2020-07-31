@@ -37,7 +37,7 @@ module.exports = {
     {
       resolve: `gatsby-source-buttercms`,
       options: {
-        authToken: `ad27c794fcbf26a146247728e283c31f2da7df68`,
+        authToken: `your_api_key`,
         pageTypes: [`customer_case_study`, `courses`],
       },
     },
